@@ -1,0 +1,6 @@
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\bin\Debug\Minamike.exe.config
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\obj\Debug\Minamike.csprojResolveAssemblyReference.cache
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\bin\Debug\Minamike.exe
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\bin\Debug\Minamike.pdb
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\obj\Debug\Minamike.exe
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\obj\Debug\Minamike.pdb

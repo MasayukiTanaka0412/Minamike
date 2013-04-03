@@ -1,0 +1,5 @@
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\bin\Release\Minamike.exe.config
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\bin\Release\Minamike.exe
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\bin\Release\Minamike.pdb
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\obj\Release\Minamike.exe
+c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\obj\Release\Minamike.pdb
