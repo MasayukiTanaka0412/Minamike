@@ -1,0 +1,6 @@
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Chiaki\bin\Release\Chiaki.exe.config
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Chiaki\bin\Release\Chiaki.exe
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Chiaki\bin\Release\Chiaki.pdb
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Chiaki\obj\Release\Chiaki.csprojResolveAssemblyReference.cache
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Chiaki\obj\Release\Chiaki.exe
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Chiaki\obj\Release\Chiaki.pdb

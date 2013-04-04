@@ -3,3 +3,4 @@ c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\bin\Re
 c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\bin\Release\Minamike.pdb
 c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\obj\Release\Minamike.exe
 c:\users\j1013187\documents\visual studio 2012\Projects\Minamike\Minamike\obj\Release\Minamike.pdb
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Minamike\obj\Release\Minamike.csprojResolveAssemblyReference.cache
