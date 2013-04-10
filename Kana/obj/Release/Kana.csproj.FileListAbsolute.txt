@@ -3,3 +3,4 @@ C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Kana\bin\Releas
 C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Kana\bin\Release\Kana.pdb
 C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Kana\obj\Release\Kana.exe
 C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Kana\obj\Release\Kana.pdb
+C:\Users\j1013187\Documents\Visual Studio 2012\Projects\Minamike\Kana\obj\Release\Kana.csprojResolveAssemblyReference.cache

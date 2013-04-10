@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 using System.Diagnostics;
+using System.Threading;
 
 namespace Minamike
 {
@@ -15,6 +16,9 @@ namespace Minamike
         const int DEFAULT_INTERVALIN_MSEC = 1000;
         static void Main(string[] args)
         {
+            Thread.GetDomain().UnhandledException += new
+        UnhandledExceptionEventHandler(Application_UnhandledException);
+            
             string targetURL = DEFAULT_TARGET_URL;
             int retryCount = DEFAULT_RETRY_COUNT;
             int interval = DEFAULT_INTERVALIN_MSEC;
@@ -59,6 +63,15 @@ namespace Minamike
                 System.Threading.Thread.Sleep(interval);
             }
             //System.Console.ReadLine();
+        }
+
+        public static void Application_UnhandledException(object sender, UnhandledExceptionEventArgs e)
+        {
+            Exception ex = e.ExceptionObject as Exception;
+            if (ex != null)
+            {
+                Console.Out.WriteLine("Application_UnhandledException");
+            }
         }
     }
 }
